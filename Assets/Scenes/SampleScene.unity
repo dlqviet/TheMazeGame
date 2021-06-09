@@ -1139,7 +1139,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1515993177039569193, guid: c38bc95465d1d4445af43992d7d70e95, type: 3}
       propertyPath: m_Radius
-      value: 1
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 1515993177039569193, guid: c38bc95465d1d4445af43992d7d70e95, type: 3}
       propertyPath: m_Enabled
@@ -1163,7 +1163,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1515993177039569193, guid: c38bc95465d1d4445af43992d7d70e95, type: 3}
       propertyPath: avoidancePriority
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1515993177039569193, guid: c38bc95465d1d4445af43992d7d70e95, type: 3}
       propertyPath: m_StoppingDistance
